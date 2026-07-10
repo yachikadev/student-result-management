@@ -19,6 +19,7 @@ A Python-based Student Result Management System using OOP concepts.
 
 ## How to Run
 
+
 1. Clone the repository
 ```bash
 git clone https://github.com/yachikadev/student-result-management.git
